@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-w3-simple"
+defaultContentLanguage = "en"
+paginate = 12 #gridstyle use 3 column. so should be 3,6,9,12,15....

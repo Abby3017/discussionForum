@@ -1,0 +1,3 @@
+[submodule "themes/hugo-w3-simple"]
+	path = themes/hugo-w3-simple
+	url = https://github.com/jesselau76/hugo-w3-simple.git
