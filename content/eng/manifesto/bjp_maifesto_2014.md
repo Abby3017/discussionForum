@@ -1,0 +1,105 @@
+---
+title: "Bhartiya Janta Party-2014"
+title: "BJP 2014 Manifesto"
+date: 2019-04-02
+type: post
+categories:
+- manifesto
+  tags:
+- bjp
+- 2014
+  draft: true
+---
+
+So what does **MANIFESTO** means - _A public declaration of intent, policies, aims, beliefs etc, as issued by the political
+parties before the election._
+
+Why do **Political Parities Need Manifesto** - _Manifesto functions as both a statement of a principles and a bold, sometimes
+rebellious call to action. By causing people to evaluate the gap between those principles and their current reality, the manifesto challenges assumptions, fosters commitment, and provokes change._
+
+Here, I will list down the notable policies and aims that **Bhartiya Janta Party** had put in front of people for 2014 General Elections:
+
+1.  #### AGENDA FOR SOCIO-ECONOMIC AND POLITICAL TRANSFORMATION :
+
+    1. Vibrant and Participatory **Democracy**.
+    2. Empowered and Inspired **People**.
+    3. **Quality Life** in Villages and Cities, Basic **Amenities** to all.
+    4. Flourishing **Agriculture**, Productive **Youth** and Involved **Women**.
+    5. Robust physical and social **Infrastructure**, Innovative and Technology driven **Society**.
+    6. Global competitive **Economy** and **Brand India** based on **Quality**.
+    7. Build Modern India where people of all communities come forward for their own development and development of country.
+
+2.  #### ATTEND THE IMMINENT:
+
+    1. ### PRICE RISE:
+
+       1. The Bhartiya Janta Party will establish **Special Courts** to stop hoarding and black marketing.
+       2. The bhartiya Janta Party will bring ordinance for **Price Stabilization Fund**.
+       3. We will use technology to disseminate **Real time Data** to farmers.
+
+    1. ### EMPLOYMENT:
+
+       1. The Bhartiya Janta Party will develop high impact domains like-Labour-intensive Manufacturing and Tourism across whole India.
+       2. We will transform Employment Exchanges into **Career Centers**.
+
+    1. ### FIGHTING CORRUPTION:
+
+       1. The Bhartiya Janta Party will establish system which eliminates the **Scope of Corruption**.
+       2. Ensure e-Governance, making it transparent and minimizing citizen-government interface.
+       3. We will bring System-based, policy-driven governance - minimizing discretion.
+       4. The Bhartiya Janta Party will assemble the **Task Force** for tracking and bringing back the Black Money.
+       5. We will Pro-actively engage with the **foreign Governments** to facilitate information sharing on Black Money.
+
+3.  #### WOMEN EMPOWERMENT
+
+    1. The Bhartiya Janta Party will start-Beti Bachao-Beti Padao(Save Girls, Educate Girls) national campaign for saving girl child and educating her.
+    2. Comprehensive schemes to encourage positive attitude amongst families towards the girl child.
+    3. We will bring **Women health-care** - especially focusing on domains of Nutrition and Pregnancy
+    4. Establish dedicated **Women ITIs** + Women wings in other ITIs.
+    5. We will bring in strict implementation of law for **Rape + Acid Attacks** victims.
+    6. The Bhartiya Janta Party will establish Women friendly **Police Stations**.
+
+4.  #### YOUTH AND STUDENT AGENDA:
+
+    1. Youth Participation in decision-making - **National Youth Advisory Council**.
+    2. The Bhartiya Janta Party will bring **Young Leaders programme** + **Youth Parliaments** for vibrant communities.
+    3. We will establish a system where student loans will become simpler and affordable.
+    4. We will ensure Sports culture at school level - made compulsory part of school curriculum.
+    5. National program for identifying and training extraordinary sporting talent.
+
+5.  #### PROTECTING THE INTERESTS OF LABOURS:
+
+    1. The Bhartiya Janta Party will bring in a system to create Harmonious relationship between labour and the industry -'Industry Family'.
+    2. We will bring in special **Identity Cards** for unorganized labourers sector - quality **Health** and **Education** services + **Skilling**.
+    3. Access to modern Financial Services to labour - including dedicated Workers Bank.
+    4. Strengthen **Pension** and **Health Insurance** safety nets for all
+
+6.  #### EDUCATION AND SKILLS:
+
+    1. The Bhartiya Janta Party will create **Equality of Opportunity** in 'access' and 'success' to all learners.
+    2. We will raise the **Public spending** on education and skills development to 6% of total GDP.
+    3. We will bring in a system for Performance Audit and Real-time Information on Primary Education.
+    4. National e-Library - to empower school teachers and students.
+    5. Develop India as a Knowledge Powerhouse and focus on need-based skill development and Employment.
+    6. **Skill Mapping** - scientifically identify and plan national human resource development for every sector,both established and emerging.
+    7. Emphasis on **soft skills** to enhance employability - national program for **computer literacy**.
+
+7.  #### PHYSICAL INFRASTRUCTURE:
+
+    1. The Bhartiya Janta Party will do **Rural Rejuvenation** - integrated strategies for personal, economic and social well being. We will **Rurban** - bring urban amenities to rural areas, while retaining the soul of the village.
+    2. We will bring roads, water, education, health, supply chain, electricity, broadband to all villages of India.
+    3. We will build 100 smart cities - focused on specialized domains.
+    4. **Cleanliness** and **Sanitation** prioritized – integrated infrastructure rolled out in Model towns.
+    5. Wi-Fi facilities made available in public places and commercial centers, GIS- based mapping - for scientific, strategic and long term town planning.
+
+8.  #### INTERNAL, EXTERNAL AND SOCIAL SECURITY:
+
+    1. Specially-abled: Web based disability registration system - identify every special needs person. Disabled friendly access to public facilities and places. Higher tax relief for family.
+    2. Children: Reduce burden of books on children without compromising on quality of education - using technology. Special emphasis on vulnerable children - migrants, street dwellers, specially-abled.
+    3. Comprehensive national security – borders, military, economic, cyber, energy, food, water, health and social cohesion and harmony.Strengthen Civil Defense and Home Guards - for community defense and disaster management, National plan in consultation with state Governments - to address Maoist insurgency.Deal with cross border terrorism with a firm hand is our top priority.
+    4. We Will start R&D in defense - developing indigenous defense technologies. We will bring Global platform for defense hardware manufacture and software production. We will maximize technology transfer in defense manufacturing.
+    5. The Bhartiya Janta Party will implement One rank, One pension and also build War Memorial to recognize and honor gallantry of our soldiers.
+
+These were the Key Goals and Promises made by **Bhartiya Janta Party** before 2014 General Elections.
+
+Please leave your key thoughts about BJP manifesto in the comments section below.
