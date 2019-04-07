@@ -38,8 +38,8 @@ Now lets dive into the manifesto of congress, let's see what it is offering to t
    5. Congress will endeavor to allocate a share of GST revenues to Panchayats and Municipalities.
 
 4. #### NATIONAL & INTERNAL SECURITY
-   1. Congress will reverse the trend of declining de- fence spending under the NDA government, and will ensure that defence spending is increased to meet the requirements of the Armed Forces. We will expedite all modernisation programmes of the armed forces in a transparent manner.
-   2. Congress will establish the of ce of Chief of De- fence Staff (CDS) to be the principal adviser to the Government on matters relating to defence.
+   1. Congress will reverse the trend of declining defence spending under the NDA government, and will ensure that defence spending is increased to meet the requirements of the Armed Forces. We will expedite all modernisation programmes of the armed forces in a transparent manner.
+   2. Congress will establish the **office of Chief of Defence Staff (CDS)** to be the principal adviser to the Government on matters relating to defence.
    3. The BJP government left the National Security Advisory Board in limbo between January 2015 and October 2016 and then truncated the body. Congress will re-establish the NSAB, provide a statutory basis to the body, appoint experts from different disciplines and ensure that it will function as a permanent, professional advisory body advising the NSC and the government.
    4. The key to internal security is intelligence, analysis and quick response. Congress had put in place the Multi-Agency Centre and the NSG regional hubs. Congress had also proposed to establish the National Counter-Terrorism Centre and NATGRID. The BJP government dismantled the preparatory work and wasted 5 years. NCTC was put in the cold storage and NATGRID is yet to be made operational. Congress promises that NCTC will be set up within 3 months and NATGRID will be made operational by December 2019.
    5. Congress will work with State Governments to increase the strength of State police forces, fill all vacancies, equip and train them, and deploy them impartially to maintain law and order and to detect and punish violators and instigators.
@@ -83,6 +83,6 @@ Now lets dive into the manifesto of congress, let's see what it is offering to t
    7. Congress promises to **double the allocation for Education to 6 per cent of GDP in the 5 years ending 2023-24**. A path forward will be laid down in the regular Budget for 2019-20 and specific annual targets will be set.
    8. We will revive, redesign and expand the Education Loan programme. Applications will be received, examined and sanctioned on a single portal and then assigned to the branch of a bank located near the applicant’s residence or place of study for documentation and monitoring. No interest will be charged during the period of study and until the student finds a job or earns through self-employment. Outstanding interest dues on old education loans as on 31 March 2019 will be waived.
 
-These were the promises that INC made in general election of 2019.
+These are the promises that INC made in general election of 2019.
 
 Please leave your thoughts behind in the comment section below.
