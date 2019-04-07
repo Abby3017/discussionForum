@@ -1,5 +1,4 @@
 ---
-title: "Bhartiya Janta Party-2014"
 title: "BJP 2014 Manifesto"
 date: 2019-04-02
 type: post
