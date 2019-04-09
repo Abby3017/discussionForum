@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://policypolice.in/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-w3-simple"
@@ -9,13 +9,11 @@ paginate = 12 #gridstyle use 3 column. so should be 3,6,9,12,15....
 weight = 0
 languageName = "English"
 contentDir = "content/eng"
-
-
-[[languages.en.menu.main]]
+  [[languages.en.menu.main]]
     name = "Manifesto"
     url = "/manifesto/"
     weight = 2
-[[languages.en.menu.main]]
+  [[languages.en.menu.main]]
     name = "About"
     url = "/about/"
     weight = 3
