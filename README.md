@@ -6,7 +6,7 @@ Theme used in this project [Theme][2]. Read this docs how to put up frontmatter 
 
 
 To install this repo with theme use this command
-**git clone --recurse-submodules -j8 git://github.com/foo/bar.git**
+**git clone --recurse-submodules -j8 https://github.com/Abby3017/discussionForum.git**
 
 
 [1]: https://gohugo.io/getting-started/quick-start/
