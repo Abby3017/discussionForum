@@ -1,5 +1,5 @@
 ---
-title: "Congress 2014 Manifesto"
+title: "Congress Manifesto 2014"
 date: 2019-03-26T08:33:34+05:30
 type: post
 categories:
@@ -76,4 +76,4 @@ Here, I will list notable policy and few points that **congress** party had put 
 
 These were the promises that INC made in election 2014.
 
-Please leave your thought behind in the comment section below.
+Please leave your thoughts behind in the comment section below.
