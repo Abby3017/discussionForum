@@ -14,26 +14,26 @@ tags:
 Now lets dive into the manifesto of congress, let's see what it is offering to the public :-
 
 1. #### INDUSTRY & JOB
-   1. All of the _4 lakh vacancies as on 1 April 2019 in the Central Government, Central Public Sector Enterprises, Judiciary and Parliament_     will be filled before the end of March 2020. As a condition for devolution of funds to the healthcare and education sectors and to         Panchayats and Municipalities, Congress will request State Governments to fill all vacancies, estimated at 20 lakh, in the 2 sectors and in local bodies.
-    2. We will work with State Governments to create new Seva Mitra positions (estimated at 10 lakh) in every Gram Panchayat and every Urban    Local Body to ensure the effective delivery of government services to citizens.
+   1. All of the _4 lakh vacancies as on 1 April 2019 in the Central Government, Central Public Sector Enterprises, Judiciary and Parliament_ will be filled before the end of March 2020. As a condition for devolution of funds to the healthcare and education sectors and to Panchayats and Municipalities, Congress will request State Governments to fill all vacancies, estimated at 20 lakh, in the 2 sectors and in local bodies.
+    2. We will work with State Governments to create new Seva Mitra positions (estimated at 10 lakh) in every Gram Panchayat and every Urban Local Body to ensure the effective delivery of government services to citizens.
     3. Application fees for government examinations and government posts will be abolished.
-    4. We will create an Enterprise Support Agency to help entrepreneurs, including start-ups, with all-round business support including         counselling, incubation, access to technology, funding, domestic and export markets, and the creation of new products, services and       intellectual property. 
+    4. We will create an Enterprise Support Agency to help entrepreneurs, including start-ups, with all-round business support including counselling, incubation, access to technology, funding, domestic and export markets, and the creation of new products, services and intellectual property. 
     5. Congress promises to increase the share of India’s manufacturing sector from the _current level of 16 per cent of GDP to 25 per cent within a period of 5 years_ and to make India a manufacturing hub for the world. Congress believes that anything that can be made in another country can be made in India. Congress promises that it will adopt policies, formulate rules, levy taxes and reward entrepreneurship that will make India a renowned centre of manufacturing. 
     6. Congress will announce a **Make for the World** policy under which foreign and Indian companies will be invited to invest in **Exclusive Export-only Zones**, manufacture and export their entire production, pay no indirect taxes and pay a low rate of corporate tax. 
    
 2. #### MINIMUM INCOME SUPPORT PROGRAMME (MISP)
-   1. The target population will be _5 crore families who constitute the poorest 20 per cent of all families_. They will be the beneficiaries     of MISP. Each family will be guaranteed a cash transfer of **Rs.72,000 a year**.
+   1. The target population will be _5 crore families who constitute the poorest 20 per cent of all families_. They will be the beneficiaries of MISP. Each family will be guaranteed a cash transfer of **Rs.72,000 a year**.
    2.  There will a Design phase (3 months) followed by a Pilot and Testing phase (6–9 months) 03. before roll-out.
        1. The estimated cost will _be <1 per cent of GDP in Year 1 and <2 per cent of GDP in Year 2_ and thereafter. 
        2. As the nominal GDP grows and families move out of poverty, the cost will decline as a proportion of GDP.
-    1. Congress will appoint an independent panel of eminent economists, social scientists and statisticians to oversee the design, testing,    rollout and implementation of the programme. The programme will move from one stage to the other only after a ‘go ahead’ from the         panel. Congress intends to implement MISP as a joint scheme of the Central and State Governments. The scheme will be funded through new   revenues and rationalisation of expenditure. Current merit subsidy schemes that are intended to achieve specific objectives will be      continued. 
+    1. Congress will appoint an independent panel of eminent economists, social scientists and statisticians to oversee the design, testing, rollout and implementation of the programme. The programme will move from one stage to the other only after a ‘go ahead’ from the panel. Congress intends to implement MISP as a joint scheme of the Central and State Governments. The scheme will be funded through new   revenues and rationalisation of expenditure. Current merit subsidy schemes that are intended to achieve specific objectives will be continued. 
     2. The Congress goal is that **No Indian Family Shall Be Left Behind**.
 
 3. #### TAXATION & TAX REFORMS
-   1. Congress promises to enact **the Direct Taxes Code** in the first year of our government. It will usher in an era of simplicity,           transparency, tax equity, easy compliance and impartial administration.
-   2. Congress promises that the Direct Taxes Code will levy taxes at _reasonable and progressive rates_ having regard to the level of           current incomes, income inequalities and the principles of tax equity.
-   3. The GST 2.0 regime will be based on a single, moderate, standard rate of tax on all goods and services. The rate will be revenue          neutral to the current indirect tax revenues of the Central and State Governments and will take note of the potential of GST 2.0 to        boost  their tax revenues.
-   4. Congress promises that Real Estate (all sectors), Petroleum Products, Tobacco and Liquor will be brought within the ambit of GST 2.0 in    a manner and time period not exceeding 2 years agreed to in the GST Council.
+   1. Congress promises to enact **the Direct Taxes Code** in the first year of our government. It will usher in an era of simplicity, transparency, tax equity, easy compliance and impartial administration.
+   2. Congress promises that the Direct Taxes Code will levy taxes at _reasonable and progressive rates_ having regard to the level of current incomes, income inequalities and the principles of tax equity.
+   3. The GST 2.0 regime will be based on a single, moderate, standard rate of tax on all goods and services. The rate will be revenue neutral to the current indirect tax revenues of the Central and State Governments and will take note of the potential of GST 2.0 to boost their tax revenues.
+   4. Congress promises that Real Estate (all sectors), Petroleum Products, Tobacco and Liquor will be brought within the ambit of GST 2.0 in a manner and time period not exceeding 2 years agreed to in the GST Council.
    5. Congress will endeavor to allocate a share of GST revenues to Panchayats and Municipalities.
 
 4. #### NATIONAL & INTERNAL SECURITY
