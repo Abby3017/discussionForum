@@ -26,7 +26,7 @@ Now lets dive into the manifesto of congress, let's see what it is offering to t
    2.  There will a Design phase (3 months) followed by a Pilot and Testing phase (6–9 months) 03. before roll-out.
        1. The estimated cost will _be <1 per cent of GDP in Year 1 and <2 per cent of GDP in Year 2_ and thereafter. 
        2. As the nominal GDP grows and families move out of poverty, the cost will decline as a proportion of GDP.
-    1. Congress will appoint an independent panel of eminent economists, social scientists and statisticians to oversee the design, testing, rollout and implementation of the programme. The programme will move from one stage to the other only after a ‘go ahead’ from the panel. Congress intends to implement MISP as a joint scheme of the Central and State Governments. The scheme will be funded through new   revenues and rationalisation of expenditure. Current merit subsidy schemes that are intended to achieve specific objectives will be continued. 
+    1. Congress will appoint an independent panel of eminent economists, social scientists and statisticians to oversee the design, testing, rollout and implementation of the programme. The programme will move from one stage to the other only after a ‘go ahead’ from the panel. Congress intends to implement MISP as a joint scheme of the Central and State Governments. The scheme will be funded through new revenues and rationalisation of expenditure. Current merit subsidy schemes that are intended to achieve specific objectives will be continued. 
     2. The Congress goal is that **No Indian Family Shall Be Left Behind**.
 
 3. #### TAXATION & TAX REFORMS
@@ -44,13 +44,13 @@ Now lets dive into the manifesto of congress, let's see what it is offering to t
    5. The most serious threats to internal security emanate from (1) terrorism, (2) infiltration of militants, (3) Maoism or Naxalism and (4) caste or communal violence. Congress believes that each of these threats deserves a separate and distinct response.
       1. We promise an uncompromising approach and hard measures to put an end to terrorism and to the infiltration of militants.
       2. In the case of Maoism, the Congress will resolutely fight violent activities. At the same time, Congress will address developmental challenges in the areas concerned, enlist the support of the people and win over the Maoist cadres.
-      3. In the case of caste or communal violence, Congress will put down such violence with a  rm hand using the police forces at its command, apprehend the instigators and bring them to justice. There will be no room for self-appointed vigilante groups and moral policing brigades.
+      3. In the case of caste or communal violence, Congress will put down such violence with a firm hand using the police forces at its command, apprehend the instigators and bring them to justice. There will be no room for self-appointed vigilante groups and moral policing brigades.
    
 5. #### TOURISM & ART, CULTURE, HERITAGE
    1. Congress is committed to protecting the rich diversity of India’s art and culture and to ensuring it flourishes in an atmosphere of freedom and creativity. We will resolutely oppose censorship as well as any attempt to denigrate the art and culture of any group.
    2. Congress will guarantee artistic freedom. Artists and craftsmen will enjoy the freedom to express their views in any form without fear of censorship or retribution. Attempts by vigilante groups to censor or intimidate artists will be viewed seriously and action against them will be taken according to the law.
    3. Congress promises autonomy to cultural institutions, including financial autonomy.
-   4. The Copyright Act will be strengthened and enforced. The Copyright Board will be reconstituted and empowered to achieve the objects of    the Copyright Act.
+   4. The Copyright Act will be strengthened and enforced. The Copyright Board will be reconstituted and empowered to achieve the objects of the Copyright Act.
    5. We will establish an adequately capitalised Tourism Development Bank to provide low-cost, long-term funds for investment in tourism-related businesses.
    6. Congress will work with State Governments to create young volunteer groups to guide and assist visitors at important places of tourist interest.
    7. Visa-on-Arrival Scheme will be expanded to include more countries and more categories of visitors. No fee will be charged for tourist visas for a period of 3 years.
@@ -63,7 +63,7 @@ Now lets dive into the manifesto of congress, let's see what it is offering to t
    5. Rules under the Whistle-Blowers Protection Act, 2014 will be made to operationalise the Act. Congress promises to ensure that the law is not weakened or diluted.
 
 7. #### WOMEN'S EMPOWERMENT & GENDER JUSTICE
-   1. Congress promises to pass the Constitution (Amendment) Bill to provide for reservation of 33 per cent of seats in the Lok Sabha and State Legislative Assemblies in the  rst session of the 17th Lok Sabha and in the Rajya Sabha.
+   1. Congress promises to pass the Constitution (Amendment) Bill to provide for reservation of 33 per cent of seats in the Lok Sabha and State Legislative Assemblies in the first session of the 17th Lok Sabha and in the Rajya Sabha.
    2. The Equal Remuneration Act, 1976 will be enforced effectively. We will review all laws that stipulate wage rates to provide that men and women are paid the same wage for similar work.
    3. We will repeal any provision of law that prohibits night shifts for women.
    4. Sufficient night shelters will be built for migrant women workers. Adequate number of safe and hygienic public toilets for women will be provided in towns and cities. Sanitary napkin vending machines will be installed in public spaces, schools and colleges.
