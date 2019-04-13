@@ -2,6 +2,8 @@
 title: "Congress Manifesto 2014"
 date: 2019-03-26T08:33:34+05:30
 type: post
+discussionId: "CONGRESS_2014"
+disable_comments: false
 categories:
 - manifesto
 tags:

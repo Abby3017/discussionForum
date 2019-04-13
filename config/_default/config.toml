@@ -1,19 +1,42 @@
 baseURL = "http://policypolice.in/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+#title = "Know Your policy"
 theme = "hugo-w3-simple"
 defaultContentLanguage = "en"
 paginate = 12 #gridstyle use 3 column. so should be 3,6,9,12,15....
+enableRobotsTXT = true
+googleAnalytics = ""      # UA-XXXXXXXX-X
+#disqusShortname = "hello me"      # disqus_shortname
 
 [languages.en]
 weight = 0
 languageName = "English"
 contentDir = "content/eng"
+[languages.en.params]
+    title = "Know Your policy"
+    authorinfo = "<h4>Authored By John Doe</h4>"
+    licenseinfo = "<p class=\"w3-small\">John Doe, a good man living on the earth, loving making website with hugo. This article is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\" class=\"w3-text-white\">Creative Commons Attribution 4.0 International License</a>.</p>"
+    logotext = "Know Your Policy" # logo text
+    isso_baseurl=""  #if you want to use isso as comment system,set your isso js baseurl here. It is like "https://isso.yourwebsite.com/" or "https://yourwebsite.com/isso/"
+    isso_langcode="en"
+    cookie_info = "This website uses cookies to ensure you get the best experience on our website. [Learn more](/privacy-policy/)"
   [[languages.en.menu.main]]
     name = "Manifesto"
     url = "/manifesto/"
     weight = 2
   [[languages.en.menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/about/about"
     weight = 3
+
+[params]
+  #searchfunction = true
+  #onesignalid = ""  #one signal push app id
+  readingtime = true
+  relatedPosts = false
+  backtotop = true
+  allliststyle = true
+  welcomemessage = true
+  #description = "Hugo W3 Simple Theme"
+  googletranslate = true
+  talkyardServerUrl = "https://comments-demo.talkyard.io"
