@@ -9,7 +9,7 @@ categories:
 tags:
 - congress
 - 2014
-draft: true
+draft: false
 # url: /about/
 # thumbnail: https://raw.githubusercontent.com/jesselau76/hugo-w3-simple/master/exampleSite/images/thumb-rigo-erives-594315-unsplash.jpg
 ---
