@@ -1,0 +1,38 @@
+User-agent: *
+
+
+Disallow: /
+
+Disallow: /about/about/
+
+Disallow: /about/
+
+Disallow: /tags/2019/
+
+Disallow: /manifesto/bjp_2019/
+
+Disallow: /categories/
+
+Disallow: /manifesto/
+
+Disallow: /tags/
+
+Disallow: /tags/bjp/
+
+Disallow: /categories/manifesto/
+
+Disallow: /tags/2014/
+
+Disallow: /tags/aap/
+
+Disallow: /manifesto/aap_2014/
+
+Disallow: /manifesto/congress_2019/
+
+Disallow: /tags/congress/
+
+Disallow: /manifesto/bjp_2014/
+
+Disallow: /manifesto/congress_2014/
+
+Disallow: /search/
