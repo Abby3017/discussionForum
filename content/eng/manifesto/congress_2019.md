@@ -1,7 +1,7 @@
 ---
 title: "Congress Manifesto 2019"
 date: 2019-04-02T22:40:34+05:30
-draft: true
+draft: false
 type: post
 discussionId: "CONGRESS_2019"
 disable_comments: false
