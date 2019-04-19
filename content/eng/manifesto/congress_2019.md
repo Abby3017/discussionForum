@@ -84,4 +84,8 @@ Now lets dive into the manifesto of congress, let's see what it is offering to t
 
 These are the promises that INC made in general election of 2019.
 
+If you want to read what else promised by INC in year 2019, please go through [their manifesto][1].
+
 Please leave your thoughts behind in the comment section below.
+
+[1]: https://s3.ap-south-1.amazonaws.com/thepolicy/manifesto/inc2019.pdf
