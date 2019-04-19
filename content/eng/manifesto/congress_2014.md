@@ -27,7 +27,7 @@ Here, I will list notable policy and few points that **congress** party had put 
         - Right to Dignity and humane working conditions
         - Right to Entrepreneurship that will protect and assist all those who seek to become entrepreneurs
     2. We will provide skills and training to 10 crore youth and provide them with employment opportunities over the next 5 years.
-    3. The protection of minorities is at the core of the ethos of our country. The Communal Violence Bill, which was drafted and introduced     by the Indian National Congress,remains an important commitment. We will work towards its enactment at the earliest.
+    3. The protection of minorities is at the core of the ethos of our country. The Communal Violence Bill, which was drafted and introduced by the Indian National Congress, remains an important commitment. We will work towards its enactment at the earliest.
     4. Continuing our record of delivering India’s highest growth rates, we will restore India to 8% plus growth rate within 3 years:
         - We will continue to take firm action to control inflation even in a difficult global economic scenario.
         - Our vision is building India as the world leader in manufacturing. We will ensure a 10% growth rate in the manufacturing sector   with a special emphasis on small and medium enterprises.
@@ -78,7 +78,7 @@ Here, I will list notable policy and few points that **congress** party had put 
 
 These were the promises that INC made in election 2014.
 
-If you want to read what else promised by INC in year 2014, please go throught [their manifesto][1].
+If you want to read what else promised by INC in year 2014, please go through [their manifesto][1].
 
 Please leave your thoughts behind in the comment section below.
 
