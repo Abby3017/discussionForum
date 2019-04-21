@@ -1,4 +1,4 @@
-baseURL = "https://politydoor.com/"
+baseURL = "https://www.politydoor.com/"
 languageCode = "en-us"
 #title = "Know Your policy"
 theme = "hugo-w3-simple"
