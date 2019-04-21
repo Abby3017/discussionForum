@@ -2,6 +2,7 @@
 title: "About"
 date: 2019-04-13
 draft: false
+disable_comments: true
 ---
 
 This ‘site-name’ is an initiative to educate people about the government policies that has an effect on their day to day life. We are not affiliated and are not part of any kind of political group or party.
