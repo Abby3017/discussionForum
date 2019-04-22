@@ -1,11 +1,12 @@
 ---
 title: "About"
+Name: "Politydoor"
 date: 2019-04-13
 draft: false
 disable_comments: true
 ---
 
-This ‘site-name’ is an initiative to educate people about the government policies that has an effect on their day to day life. We are not affiliated and are not part of any kind of political group or party.
+Politydoor is an initiative to educate people about the government policies that has an effect on their day to day life. We are not affiliated and are not part of any kind of political group or party.
 
 Our goal:
 We want to spread awareness among people as, currently there is no platform where people can get needed information about the government policies in an easy or articulate way.
