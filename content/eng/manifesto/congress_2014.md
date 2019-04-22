@@ -78,7 +78,7 @@ Here, I will list notable policy and few points that **congress** party had put 
 
 These were the promises that INC made in election 2014.
 
-If you want to read what else promised by INC in year 2014, you can read [their 2014 manifesto][1].
+If you want to read what else promised by INC in year 2014, you can have a look at [their 2014 manifesto][1].
 
 Please leave your thoughts behind in the comment section below.
 
