@@ -1,0 +1,7 @@
+#toc {
+    display: none;
+    position: fixed;
+    top: 40px;
+    right: 0;
+    z-index: 99;
+  }
