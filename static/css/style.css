@@ -5,3 +5,16 @@
     right: 0;
     z-index: 99;
   }
+
+  #new_tag {
+    border-radius: 20px;
+    background-color: #ffffff;
+    font-family: "roboto", sans-serif;
+    font-weight: normal;
+    color: #e80000;
+    margin-right: 2px;
+    font-size: 12px;
+    padding: 1px 6px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.65);
+  }
+  
