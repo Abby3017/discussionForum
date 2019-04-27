@@ -21,7 +21,7 @@
       {{range where .Site.RegularPages "Params.type" "post"}}
       <tr class="item ">
           {{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }} 
-          {{ if lt $ageDays .Site.Params.new_tag_noofdays}} 
+          {{ if lt $ageDays .Site.Params.newTagNumberOfDays}} 
           <td><a href="{{.Permalink}}">{{.Title}}</a><span class="big icon" id="new_tag"> New<strong>!!</strong></span></td> 
           {{ else }} 
           <td><a href="{{.Permalink}}">{{.Title}} </a></td> 
@@ -35,7 +35,7 @@
       {{range  .Pages }}
       <tr class="item ">
           {{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }} 
-          {{ if lt $ageDays .Site.Params.new_tag_noofdays}} 
+          {{ if lt $ageDays .Site.Params.newTagNumberOfDays}} 
           <td><a href="{{.Permalink}}">{{.Title}}</a><span class="big icon" id="new_tag"> New<strong>!!</strong></span></td> 
           {{ else }} 
           <td><a href="{{.Permalink}}">{{.Title}} </a></td> 
