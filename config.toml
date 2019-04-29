@@ -40,3 +40,4 @@ contentDir = "content/eng"
   #description = "Hugo W3 Simple Theme"
   googletranslate = true
   talkyardServerUrl = "https://comments-for-politydoor-com.talkyard.net"
+  newTagNumberOfDays=30
