@@ -15,8 +15,10 @@
     margin-right: 2px;
     margin-left: 4px;
     margin-bottom: 2px;
-    font-size: 12px;
-    padding: 1px 5px;
+    vertical-align: super;
+	margin-left: 4px;
+    font-size: 9px;
+    padding: 1px 4px;
     box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.65);
   }
   
