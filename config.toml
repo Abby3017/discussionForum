@@ -39,4 +39,4 @@ contentDir = "content/eng"
   welcomemessage = false # write welcomemessage in future
   #description = "Hugo W3 Simple Theme"
   googletranslate = true
-  talkyardServerUrl = "https://comments-demo.talkyard.io"
+  talkyardServerUrl = "https://comments-for-politydoor-com.talkyard.net"

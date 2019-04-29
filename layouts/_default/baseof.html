@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 {{ end }}
 
   <!-- Back to top -->
-    {{ if .Site.Params.backtotop }}
+    {{ if and (.Site.Params.backtotop) (.IsPage) }}
       <div id="backtotop" class="w3-hide-small w3-hide-medium">
   
         <button onclick="topFunction()" class="w3-btn w3-red w3-large" style="width:160px">{{ T "backtotop"}}
