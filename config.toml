@@ -5,7 +5,7 @@ theme = "hugo-w3-simple"
 defaultContentLanguage = "en"
 paginate = 12 #gridstyle use 3 column. so should be 3,6,9,12,15....
 enableRobotsTXT = true
-googleAnalytics = ""      # UA-XXXXXXXX-X
+googleAnalytics = "UA-139313252-1"      # UA-XXXXXXXX-X
 #disqusShortname = "hello me"      # disqus_shortname
 
 [languages.en]
