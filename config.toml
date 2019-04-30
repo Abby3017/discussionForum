@@ -41,3 +41,10 @@ contentDir = "content/eng"
   googletranslate = true
   talkyardServerUrl = "https://comments-for-politydoor-com.talkyard.net"
   newTagNumberOfDays=30
+  socialicon = true
+  socialshare = true
+
+[params.social]
+  a-envelope = "mailto:politydoor@gmail.com"
+  c-twitter = "https://twitter.com/DoorPolity"
+  d-facebook = "https://www.facebook.com/politydoor"
