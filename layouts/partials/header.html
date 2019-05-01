@@ -8,13 +8,14 @@
           {
               pageLanguage: 'en'
             , layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT
-            , multilanguagePage: true
+            , includedLanguages: 'en,hi,ta,te,mr,ml,ur,bn,gu,pa'
           }
           , 'google_translate_element'
         );
       }
     </script>
     <script async src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <link href ="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" >
     {{ end }}
     
       {{ if .Site.Params.searchfunction }}
