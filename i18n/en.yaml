@@ -54,6 +54,9 @@ license:
 poststitle:
   other: "Title"
 
+postsdeptt:
+  other: "Department"
+
 postsdate:
   other: "Published Date"
 
