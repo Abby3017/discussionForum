@@ -71,4 +71,7 @@ These are certain terms and conditions to avail **Atal Incubation Centres** as y
 
 If you want to read full guidelines for **Atal Incubation Centres**. You can have a look at [Guidelines][1]
 
+You can also check the official site of [NITI Aayog][2] for Application for Atal Incubation Centres.
+
 [1]: https://s3.ap-south-1.amazonaws.com/thepolicy/policyFiles/AIC_Guidelines_2017.pdf
+[2]: https://niti.gov.in/content/atal-incubation-centres-aics
