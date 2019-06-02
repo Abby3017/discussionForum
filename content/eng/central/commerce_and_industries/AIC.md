@@ -41,12 +41,12 @@ tags:
 
 4.  #### Funding Support:
 
-    1. Successful applicants would be provided grant-in-aid to set up the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres") for a maximum period of 5 years upto Rs. 10 crore to cover the capital and operational expenditures. The exact amount of the grant shall be decided by [AIM](https://niti.gov.in/content/atal-innovation-mission-aim "Atal Innovation Mission") based on the application and business plan, as per the prevailing scheme. AIM reserves the right to modify the scheme as and when required, without prior notifications.
-    2. Key aspects of funding in [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s in academic/ R&D institutes:
+    1. Successful applicants would be provided grant-in-aid to set up the <span class="w3-tooltip w3-sand">AIC<span style="position:absolute;left:0px;bottom:18px" class="w3-text w3-tag w3-round w3-pale-blue">Atal Incubation Centres</span></span> for a maximum period of 5 years upto Rs. 10 crore to cover the capital and operational expenditures. The exact amount of the grant shall be decided by <span class="w3-tooltip w3-sand">AIM<span style="position:absolute;left:0px;bottom:18px" class="w3-text w3-tag w3-round w3-pale-blue">Atal Innovation Mission</span></span> based on the application and business plan, as per the prevailing scheme. AIM reserves the right to modify the scheme as and when required, without prior notifications.
+    2. Key aspects of funding in <span class="w3-tooltip w3-sand">AIC<span style="position:absolute;left:0px;bottom:18px" class="w3-text w3-tag w3-round w3-pale-blue">Atal Incubation Centres</span></span>s in academic/ R&D institutes:
        * Such applicants would be provided grant-in-aid of upto 100% of the total eligible project cost subject to maximum of Rs. 10 crore.
        * Cost components mentioned below in point 6 shall not be considered as eligible project costs.
        * The budged plan presented by the applicant should clearly demarcate all components of the project costs which are not eligible for funding by the [AIM](https://niti.gov.in/content/atal-innovation-mission-aim "Atal Innovation Mission"), including those mentioned in point 6.
-    3. Key aspects of funding [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s proposed by applicants other than academic/ R&D institutes:
+    3. Key aspects of funding <span class="w3-tooltip w3-sand">AIC<span style="position:absolute;left:0px;bottom:18px" class="w3-text w3-tag w3-round w3-pale-blue">Atal Incubation Centres</span></span>s proposed by applicants other than academic/ R&D institutes:
        * [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s would be provided a grant-in-aid of upto 50% of total project, subject to maximum of Rs. 10 crore.
        * Rental value of the building as per fair market value or as per the registered lease agreement can be considered as the applicant's contribution to the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s in the eligible project cost.
        * Costs mentioned in 6 shall not be considered as eligible project costs.
@@ -59,7 +59,7 @@ tags:
          * Cost of purchasing land, construction of building, purchase of vehicles.
          * Rental expense in case of applicant is an academic institution and the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres") is located in the premises of the academic institution.
          * Cost of hiring any external agency/ consultant for developing the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres") operational model or for conducting whole or part of the AIC operations.
-         * Cost of any fee paid to any external agency/individual for the preparation of the application for [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres").
+         * Cost of any fee paid to any external agency/individual for the preparation of the application for <span class="w3-tooltip w3-sand">AIC<span style="position:absolute;left:0px;bottom:18px" class="w3-text w3-tag w3-round w3-pale-blue">Atal Incubation Centres</span></span>.
 
 5.  #### Infrastructure Requirements:
 
