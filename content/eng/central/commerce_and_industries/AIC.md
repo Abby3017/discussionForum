@@ -1,9 +1,9 @@
 ---
 title: "Atal Incubation Centres"
 date: 2019-05-20T12:00:08+05:30
-draft: true
+draft: false
 department: "Commerce and Industry"
-type: "post"
+type: post
 discussionId: "AIC_Policy"
 disable_comments: false
 categories:
@@ -12,7 +12,7 @@ tags:
   - AIC
 ---
 
-**The NITI Aayog which formed in 2015 is a policy think tank of the Government of India, established with the aim to achieve **Sustainable Development Goals** and to enhance cooperative [federalism](https://en.wikipedia.org/wiki/Federalism "Federalism is the mixed or compound mode of government, combining a general government with regional governments in a single political system") by fostering the involvement of **State Governments of India** in the economic policy-making process using bottom-up approach. It's initiative include "15 year roadmap", "7-year vision, strategy and action plan", **AMRUT**, **Digital India**, **Atal Innovation Mission**, Medical Education Reforms etc**.
+**The NITI Aayog** which formed in 2015 is a policy think tank of the Government of India, established with the aim to achieve **Sustainable Development Goals** and to enhance cooperative [federalism](https://en.wikipedia.org/wiki/Federalism "Federalism is the mixed or compound mode of government, combining a general government with regional governments in a single political system") by fostering the involvement of **State Governments of India** in the economic policy-making process using bottom-up approach. It's initiative include "15 year roadmap", "7-year vision, strategy and action plan", **AMRUT**, **Digital India**, **Atal Innovation Mission**, Medical Education Reforms etc.
 
 **The Government of India has setup the Atal Innovation Mission(AIM) at NITI Aayog. The overarching purpose of this Mission is to promote a culture of innovation and entrepreneurship in India. The scheme is being implemented by NITI Aayog**.
 
@@ -43,23 +43,23 @@ tags:
 
     1. Successful applicants would be provided grant-in-aid to set up the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres") for a maximum period of 5 years upto Rs. 10 crore to cover the capital and operational expenditures. The exact amount of the grant shall be decided by [AIM](https://niti.gov.in/content/atal-innovation-mission-aim "Atal Innovation Mission") based on the application and business plan, as per the prevailing scheme. AIM reserves the right to modify the scheme as and when required, without prior notifications.
     2. Key aspects of funding in [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s in academic/ R&D institutes:
-       a. Such applicants would be provided grant-in-aid of upto 100% of the total eligible project cost subject to maximum of Rs. 10 crore.
-       b. Cost components mentioned below in 6 shall not be considered as eligible project costs.
-       c. The budged plan presented by the applicant should clearly demarcate all components of the project costs which are not eligible for funding by the [AIM](https://niti.gov.in/content/atal-innovation-mission-aim "Atal Innovation Mission"), including those mentioned in 6.
+       * Such applicants would be provided grant-in-aid of upto 100% of the total eligible project cost subject to maximum of Rs. 10 crore.
+       * Cost components mentioned below in point 6 shall not be considered as eligible project costs.
+       * The budged plan presented by the applicant should clearly demarcate all components of the project costs which are not eligible for funding by the [AIM](https://niti.gov.in/content/atal-innovation-mission-aim "Atal Innovation Mission"), including those mentioned in point 6.
     3. Key aspects of funding [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s proposed by applicants other than academic/ R&D institutes:
-       a. [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s would be provided a grant-in-aid of upto 50% of total project, subject to maximum of Rs. 10 crore.
-       b. Rental value of the building as per fair market value or as per the registered lease agreement can be considered as the applicant's contribution to the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s in the eligible project cost.
-       c. Costs mentioned in 6 shall not be considered as eligible project costs.
+       * [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s would be provided a grant-in-aid of upto 50% of total project, subject to maximum of Rs. 10 crore.
+       * Rental value of the building as per fair market value or as per the registered lease agreement can be considered as the applicant's contribution to the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s in the eligible project cost.
+       * Costs mentioned in 6 shall not be considered as eligible project costs.
     4. The grant-in-aid shall be disbursed in a phased manner as per the budget plan submitted by the applicant and approved by [AIM](https://niti.gov.in/content/atal-innovation-mission-aim "Atal Innovation Mission") directorate.
     5. Budget Guidelines:
-       a. Expenditure on office furnishings, administration, utility, maintenance and office expenses should be kept to minimum.
-       b. The larger part of the grant-in-aid should be spent on the core operation activities of [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s.
-       c. The total grant-in-aid which can be spent towards sector specific laboratory and seed fund combined should not exceed Rs. 4.5 crores.
+       * Expenditure on office furnishings, administration, utility, maintenance and office expenses should be kept to minimum.
+       * The larger part of the grant-in-aid should be spent on the core operation activities of [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres")s.
+       * The total grant-in-aid which can be spent towards sector specific laboratory and seed fund combined should not exceed Rs. 4.5 crores.
     6. The following elements shall not be allowed to be included in the project cost itself:
-       a. Cost of purchasing land, construction of building, purchase of vehicles.
-       b. Rental expense in case of applicant is an academic institution and the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres") is located in the premises of the academic institution.
-       c. Cost of hiring any external agency/ consultant for developing the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres") operational model or for conducting whole or part of the AIC operations.
-       d. Cost of any fee paid to any external agency/individual for the preparation of the application for [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres").
+         * Cost of purchasing land, construction of building, purchase of vehicles.
+         * Rental expense in case of applicant is an academic institution and the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres") is located in the premises of the academic institution.
+         * Cost of hiring any external agency/ consultant for developing the [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres") operational model or for conducting whole or part of the AIC operations.
+         * Cost of any fee paid to any external agency/individual for the preparation of the application for [AIC](http://www.aim.gov.in/atal-incubation-centres.php "Atal Incubation Centres").
 
 5.  #### Infrastructure Requirements:
 
@@ -69,9 +69,9 @@ tags:
 
 These are certain terms and conditions to avail **Atal Incubation Centres** as your own startup funded by Government.
 
-If you want to read full guidelines for **Atal Incubation Centres**. You can have a look at [Guidelines][1]
+If you want to read full guidelines for **Atal Incubation Centres**. You can have a look at [Guidelines][1].
 
-You can also check the official site of [NITI Aayog][2] for Application for Atal Incubation Centres
+You can also check the official site of [NITI Aayog][2] for Application for Atal Incubation Centres.
 
 [1]: https://s3.ap-south-1.amazonaws.com/thepolicy/policyFiles/AIC_Guidelines_2017.pdf
 [2]: https://niti.gov.in/content/atal-innovation-mission-aim
