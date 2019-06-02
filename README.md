@@ -1,6 +1,8 @@
 
 ### HUGO BASED PROJECT
 
+[![Last Commit][last-commit-badge]][last-commit-link]
+
 Started Guide to learn hugo [Starter Guide][1]
 Theme used in this project [Theme][2]. Read this docs how to put up frontmatter for this theme.
 
@@ -24,3 +26,5 @@ Changes in theme.
 [2]: https://github.com/jesselau76/hugo-w3-simple
 [3]: https://gohugo.io/content-management/types/
 [4]: https://gist.github.com/Chaser324/ce0505fbed06b947d962
+[last-commit-badge]: https://img.shields.io/github/last-commit/TankerHQ/sdk-js.svg?label=Last%20commit&logo=github
+[last-commit-link]: https://github.com/Abby3017/discussionForum/commits/master
