@@ -20,7 +20,12 @@
     {{ if .IsHome }}
       {{range where .Site.RegularPages "Params.type" "post"}}
       <tr class="item ">
-        <td><a href="{{.Permalink}}">{{.Title}}</a></td>
+          {{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }} 
+          {{ if lt $ageDays .Site.Params.newTagNumberOfDays}} 
+          <td><a href="{{.Permalink}}">{{.Title}}</a><span class="big icon" id="new_tag"> New<strong>!!</strong></span></td> 
+          {{ else }} 
+          <td><a href="{{.Permalink}}">{{.Title}} </a></td> 
+          {{ end }}
         <td>{{ .Date.Format "2006/01/02" }}</td>
         <td>{{.WordCount}}</td>
       </tr>
@@ -29,7 +34,12 @@
     {{ else }}
       {{range  .Pages }}
       <tr class="item ">
-        <td><a href="{{.Permalink}}">{{.Title}}</a></td>
+          {{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }} 
+          {{ if lt $ageDays .Site.Params.newTagNumberOfDays}} 
+          <td><a href="{{.Permalink}}">{{.Title}}</a><span class="big icon" id="new_tag"> New<strong>!!</strong></span></td> 
+          {{ else }} 
+          <td><a href="{{.Permalink}}">{{.Title}} </a></td> 
+          {{ end }}
         <td>{{ .Date.Format "2006/01/02" }}</td>
         <td>{{.WordCount}}</td>
       </tr>
