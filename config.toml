@@ -48,6 +48,10 @@ contentDir = "content/eng"
   socialicon = true
   socialshare = true
 
+[params.meta]
+  description = "PolityDoor One Stop for scheme, policy & directive of Indian Government. Read about Promises and Manifestos of Indian Political Parties on PolityDoor."
+  keywords = "manifesto, bjp, congress, india, Government, schemes"
+
 [params.social]
   a-envelope = "mailto:politydoor@gmail.com"
   c-twitter = "https://twitter.com/DoorPolity"
