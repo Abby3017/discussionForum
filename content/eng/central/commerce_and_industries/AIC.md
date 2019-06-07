@@ -5,6 +5,7 @@ draft: false
 department: "Commerce and Industry"
 type: post
 discussionId: "AIC_Policy"
+description: "NITI Aayog policy Atal Innovation Mission for innovation in India by Government of India."
 disable_comments: false
 categories:
   - Department of NITI Aayog

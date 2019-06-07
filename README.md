@@ -16,11 +16,23 @@ To define a new [content type][3].
 
 How to do send code review and manage it [link][4].
 
+#### Basic FrontMatter for every post -
+    1.title
+    2. date
+    3. department
+    4. type
+    5. discussionId ( for uniq discussion ID)
+    6. description (max 150 words)
+    7. disable_comments
+    8. categories
+    9. tags
+
 
 Changes in theme.
 
     1. added check on where to show back to top (button).
     2. made searchable post for first page.
+    3. how to access meta tag for title and description.
 
 [1]: https://gohugo.io/getting-started/quick-start/
 [2]: https://github.com/jesselau76/hugo-w3-simple
